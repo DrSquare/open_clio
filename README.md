@@ -1,4 +1,4 @@
-# Clio: Privacy-Preserving Hierarchical Task Classification
+# Open-Clio: Privacy-Preserving Hierarchical Task Classification
 
 Implementation of the privacy-preserving hierarchical task/intent classification algorithm from the paper:
 **"Clio: Privacy-Preserving Insights into Real-World AI Use"** ([arxiv.org/abs/2412.13678](https://arxiv.org/abs/2412.13678))
